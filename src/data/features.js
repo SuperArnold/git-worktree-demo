@@ -2,7 +2,7 @@ export const FEATURES = [
     {
         id: 'pipeline',
         icon: '📊',
-        title: '視覺化銷售管線',
+        title: '視覺化銷售管線test',
         description: '用拖拉的方式管理每一筆交易進度，從初次接觸到成交一目瞭然，不再漏追任何機會。',
     },
     {
